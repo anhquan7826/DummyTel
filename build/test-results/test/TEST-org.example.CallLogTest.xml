@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CallLogTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-02-16T16:20:59" hostname="AnhQuan-Linux" time="0.07">
+  <properties/>
+  <testcase name="test10()" classname="org.example.CallLogTest" time="0.032"/>
+  <testcase name="test11()" classname="org.example.CallLogTest" time="0.002"/>
+  <testcase name="test1()" classname="org.example.CallLogTest" time="0.004"/>
+  <testcase name="test2()" classname="org.example.CallLogTest" time="0.001"/>
+  <testcase name="test3()" classname="org.example.CallLogTest" time="0.001"/>
+  <testcase name="test4()" classname="org.example.CallLogTest" time="0.001"/>
+  <testcase name="test5()" classname="org.example.CallLogTest" time="0.001"/>
+  <testcase name="test6()" classname="org.example.CallLogTest" time="0.0"/>
+  <testcase name="test7()" classname="org.example.CallLogTest" time="0.001"/>
+  <testcase name="test8()" classname="org.example.CallLogTest" time="0.002"/>
+  <testcase name="test9()" classname="org.example.CallLogTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
